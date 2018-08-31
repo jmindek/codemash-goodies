@@ -4,20 +4,15 @@ Take what you've learned and DO something with it
 
 #### Abstract ####
 
-Has this happened to you?
+Today your community is very actively evolving. It is impossible to not consume news about languages, paradigms, new services, etc...
+But, can you DO something with those bits that you find compelling?
 
-You hear or read about some language/technology/paradigm/service/etc... 
-It's something cool, shiny, and of course will solve some really important problem.
-Later that day, you Google it. You check out the Github or project's home page.
-Maybe, you conceive some ideas about how to employ this thing.
-Time passes and you've not yet started on those ideas.
-More time passes, interest start to fade.
-Then you hear about the _next_ thing and this happens all over again.
+In this session you'll learn:
+* some low touch/low commitment ways to initiate doing; for example using unit tests to explore a language.
+* when you've been "doing", what can you do to continue to build your expertise
+* and more...
 
-Is this a familiar scenario for you?
-Without actually doing something with what you've learned, it's all to easy to move on to something new again and again.
-
-You'll leave this session with real tactics to act on those ideas!
+Then, you can go and get doing!
 
 #### Content Categories ####
 
