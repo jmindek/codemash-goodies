@@ -4,23 +4,20 @@ Harness the power of your editor to write better code
 
 #### Abstract ####
 
-You're editor is a critical tool of your trade and it's powerful features are often left untouched.
+Do you want your editor do more for you? Your editor is designed to make your job easier, but you need to learn how to effectively use it.
 
-Have you wished that you knew how to change all the occurrences of a string in your project home without opening each file at a time and changing the string by typing it?  
-Would you like to be able to automatically check your code before saving a real obvious style or syntax violation?  
-Maybe you'd just like to get to the end of any line without having to press the right arrow key 100 times.  
+Did you know your editor can:
+* Integrate with your source control
+* Run your tests and give you fast feedback
+* Scan your code for syntax errors and dead code
+* Evaluate lines of code in-line
+* Improve in-file navigation through shortcuts for skipping words, functions, or the extremes of the file or row
+* Quickly find files, occurrences of strings, replacing strings in an open file or the whole project
+* Run an interpreter, console, or REPL easily transferring code between it and the source
 
-You're editor will dramatically improve these tasks and so many others.
+You will see these features demoed in a text editor, visual editor, and full-blown IDE so you can see that other than static analysis, these features exist in all advanced editors.
 
-In this demo we'll look at the wide range of features offered by several editors and IDEs that help you:  
-
- * Navigate through project files like butter
- * Follow all your style and syntax requirements
- * Prevent common errors
- * Interact with source control
- * and more!
-
-Then you too will improve your code quality simply by using your editor better!
+Expect to walk away from the session with a list of powerful editor features you can use to improve your code quality today.
 
 #### Content Categories ####
 
